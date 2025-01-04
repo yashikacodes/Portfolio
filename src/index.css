@@ -167,12 +167,12 @@ body:has(.card[data-color="green"]:hover) {
 
 /* Neo Brutalism */
 .neo-brutalism-blue {
-  background: #2b77e7;
+  background: #e8325d;
   position: relative;
   border-radius: 10px;
-  border: #2b77e7;
-  box-shadow: 0.6vmin 0.6vmin #336cc1, 1vmin 1vmin #0092db, 1vmin 1vmin #0092db,
-    0.65vmin 1vmin #0092db, 1vmin 0.65vmin #0092db;
+  border: #d15a7e;
+  box-shadow: 0.6vmin 0.6vmin #eb6887, 1vmin 1vmin #eb6887, 1vmin 1vmin #eb6887,
+    0.65vmin 1vmin #eb6887, 1vmin 0.65vmin #eb6887;
 }
 
 .neo-brutalism-white {
